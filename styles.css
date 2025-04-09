@@ -1,1 +1,8 @@
 /* Do not add any css, this is a bootstrap only assignment  */
+.item{
+	height:450px
+}
+.item img{
+	width:100%;
+	height:auto:
+}
